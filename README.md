@@ -13,6 +13,8 @@
   Spring Tool Suite 
   Spring Boot ,
   Bootstrap,
+  H2 database,
+  Spring JPA,
   AngularJS,
   Java 1.8,
   Apache Commons Lang3 API,
