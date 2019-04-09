@@ -97,7 +97,6 @@ public class SortService {
 	 * @param randomNums
 	 * @return swapCount
 	 */
-	// name change to sort
 	private int getSwapCount(int randomNums[]) {
 		int swapCount = 0;
 		Random random = new Random(randomNums.length);
